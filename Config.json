@@ -4,15 +4,15 @@
     [
         {
             "BucketName":"jana-temp001",
-            "DownloadPath":"D:\\Fayaz\\s3download\\temp1"
+            "DownloadPath":"D:\\sample\\s3download\\temp1"
         },
         {
             "BucketName":"jana-temp002",
-            "DownloadPath":"D:\\Fayaz\\s3download\\temp2"
+            "DownloadPath":"D:\\sample\\s3download\\temp2"
         },
         {
             "BucketName":"jana-temp003",
-            "DownloadPath":"D:\\Fayaz\\s3download\\temp3"
+            "DownloadPath":"D:\\sample\\s3download\\temp3"
         }
     ]
 }
